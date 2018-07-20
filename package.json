@@ -18,6 +18,8 @@
   "homepage": "https://github.com/ChaosK9/PersonalReactSite#readme",
   "dependencies": {
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "webpack": "^4.16.1",
+    "webpack-dev-server": "^3.1.4"
   }
 }
