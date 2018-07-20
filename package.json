@@ -1,0 +1,23 @@
+{
+  "name": "personalreactsite",
+  "version": "1.0.0",
+  "description": "This project is my first time using and learning a framework for and by myself.\r It will be a personal website to showcase my own code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosK9/PersonalReactSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaosK9/PersonalReactSite/issues"
+  },
+  "homepage": "https://github.com/ChaosK9/PersonalReactSite#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
